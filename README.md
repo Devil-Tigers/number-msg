@@ -26,12 +26,12 @@ $ cd number-msg
 
 $ bash number.sh
 
-or 
-
-$ chmod +x * 
 
 
-$ ./number.sh
+
+
+
+
 
 
 After 

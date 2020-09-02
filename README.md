@@ -9,29 +9,29 @@ To use this tool
 commands 
 
 
-apt update
+$ apt update
 
 
-apt upgrade
+$ apt upgrade
 
 
-pkg install git
+$ pkg install git
 
 
-git clone 
+$ git clone https://github.com/tigerhackmalayalam/number-msg.git 
 
 
-cd 
+$ cd number-msg
 
 
-bash 
+$ bash number.sh
 
 or 
 
-chmod +x * 
+$ chmod +x * 
 
 
-./
+$ ./number.sh
 
 
 After 
@@ -49,9 +49,9 @@ Type :-
 
 
 
-ls
+$ ls
 
-cp num_msg /sdcard
+$ cp num_msg /sdcard
 
 
 

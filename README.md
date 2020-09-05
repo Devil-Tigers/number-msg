@@ -51,7 +51,7 @@ Type :-
 
 $ ls
 
-$ cp num_msg /sdcard
+$ cp num_msg.txt /sdcard
 
 
 

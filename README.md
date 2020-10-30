@@ -1,4 +1,4 @@
-WELCOME TO "TIGER HACK MALAYALAM"
+WELCOME TO "Devil Tigers"
 
 This tool is used to Make UNLIMITED NUMBER Messages
 
@@ -18,7 +18,7 @@ $ apt upgrade
 $ pkg install git
 
 
-$ git clone https://github.com/tigerhackmalayalam/number-msg.git 
+$ git clone https://github.com/Devil-Tigers/number-msg.git 
 
 
 $ cd number-msg
@@ -71,7 +71,7 @@ ENJOY...
 
 FOR MORE DETAILS
 
-Subscribe my YouTube channel :- "Tiger Hack Malayalam"
+Subscribe my YouTube channel :- "The Devil Tigers"
 
 
 
